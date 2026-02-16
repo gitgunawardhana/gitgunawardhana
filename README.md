@@ -73,7 +73,9 @@ I'm a highly motivated and detail-oriented freelance developer and undergraduate
 
 
 ### Visitor's count 👀
-<p align="left"><img src="https://profile-counter.glitch.me/gitgunawardhana/count.svg" alt="gitgunawardhana :: Visitor's Count" /></p>
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=gitgunawardhana&label=Visitor%20count&color=0e75b6&style=flat" alt="gitgunawardhana" />
+</p>
 <br/>
 
 <p >
