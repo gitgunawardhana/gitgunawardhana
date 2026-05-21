@@ -4,7 +4,7 @@
 I'm a highly motivated and detail-oriented freelance developer and undergraduate student, fueled by a passion for full-stack development. With a knack for the latest technologies and programming languages, I bring strong problem-solving abilities and valuable team collaboration experience to the table.
 
 - 📫 How to reach me: t.gunawardana864@gmail.com
-- 📄 Please have a look at my [Portfolio/Resume](https://gitgunawardhana.github.io/portfolio/) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [Portfolio/Resume](https://portfolio-eight-gold-003j7o4ho8.vercel.app/) for more details about me. I'm open to feedback and suggestions!
 
 ## Skills and Experience
 <!---* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="13" height="13"/> React
