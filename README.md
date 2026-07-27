@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Ishan Tharindu
+### Hi there 👋, I'm Ishan
 #### An undergraduate
 I'm a highly motivated and detail-oriented freelance developer and undergraduate student, fueled by a passion for full-stack development. With a knack for the latest technologies and programming languages, I bring strong problem-solving abilities and valuable team collaboration experience to the table.
 
